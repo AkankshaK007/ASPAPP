@@ -1,0 +1,14 @@
+D:\Winform\Projects\BankProject 3\BankProject 3\bin\Debug\BankProject 3.exe.config
+D:\Winform\Projects\BankProject 3\BankProject 3\bin\Debug\BankProject 3.exe
+D:\Winform\Projects\BankProject 3\BankProject 3\bin\Debug\BankProject 3.pdb
+D:\Winform\Projects\BankProject 3\BankProject 3\obj\Debug\BankProject 3.csprojAssemblyReference.cache
+D:\Winform\Projects\BankProject 3\BankProject 3\obj\Debug\BankProject_3.frmCustomer.resources
+D:\Winform\Projects\BankProject 3\BankProject 3\obj\Debug\BankProject_3.Properties.Resources.resources
+D:\Winform\Projects\BankProject 3\BankProject 3\obj\Debug\BankProject 3.csproj.GenerateResource.cache
+D:\Winform\Projects\BankProject 3\BankProject 3\obj\Debug\BankProject 3.csproj.CoreCompileInputs.cache
+D:\Winform\Projects\BankProject 3\BankProject 3\obj\Debug\BankProject 3.exe
+D:\Winform\Projects\BankProject 3\BankProject 3\obj\Debug\BankProject 3.pdb
+D:\Winform\Projects\BankProject 3\BankProject 3\obj\Debug\BankProject_3.frmModes.resources
+D:\Winform\Projects\BankProject 3\BankProject 3\obj\Debug\BankProject_3.frm_AccountTypes.resources
+D:\Winform\Projects\BankProject 3\BankProject 3\obj\Debug\BankProject_3.frm_Employee.resources
+D:\Winform\Projects\BankProject 3\BankProject 3\obj\Debug\BankProject_3.frmHome.resources
